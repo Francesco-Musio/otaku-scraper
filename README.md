@@ -1,4 +1,4 @@
-#Otaku Scraper
+# Otaku Scraper
 
 - Disclaimer
 - Info
@@ -10,7 +10,7 @@
 
 **I strongly recommend _not_ to use this application, except for pure knowledge of the argument.** 
 
-##Info
+## Info
 
 The objective of this study is to scrape from information about all the anime in a streaming site and than get to a mp4 link that can be streamed by mpv.
 
@@ -20,7 +20,7 @@ At this poit, the GUI is initialized and allow to navigate in a menu where the u
 
 Downloading the anime means running a script that obtains all the mp4 links and create a json file with all the info. When the download is finished, the program uses mpv to stream the video. 
 
-##How To
+## How To
 
 1. Create two new folder in the main folder with these exact names:
 	-anime_json
