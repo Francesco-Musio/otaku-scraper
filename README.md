@@ -23,9 +23,9 @@ Downloading the anime means running a script that obtains all the mp4 links and 
 ## How To
 
 1. Create two new folder in the main folder with these exact names:
-	-anime_json
-	-temp
-2. Run `Sceaper_Anime.py` and wait for it to download the full Anime List
+	1. anime_json
+	2. temp
+2. Run `Scraper_Anime.py` and wait for it to download the full Anime List
 3. Run `Main.py`
 
 When you select an anime, the GUI will give you the option to watch or download the anime.
